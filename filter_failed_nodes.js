@@ -1,3 +1,4 @@
+#连接测试
 // filter_failed_nodes.js
 
 let nodes = $surge.selectGroup($environment.policy);
